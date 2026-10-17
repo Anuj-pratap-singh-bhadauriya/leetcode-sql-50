@@ -43,6 +43,7 @@ Problems
 - [185 Department Top Three Salaries](MYSQL/185_Department_Top_Three_Salaries.sql)
 - [1907 Count Salary Categories](MYSQL/1907_Count_Salary_Categories.sql)
 - [1934 Confirmation Rate](MYSQL/1934_Confirmation_Rate.sql)
+- [196 Delete Duplicate Emails](MYSQL/196_Delete_Duplicate_Emails.sql)
 - [1978 Employees Whose Manager Left the Company](MYSQL/1978_Employees_Whose_Manager_Left_the_Company.sql)
 - [197 Rising Temperature](MYSQL/197_Rising_Temperature.sql)
 - [2356 Number of Unique Subjects Taught by Each Teacher](MYSQL/2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql)
